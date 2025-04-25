@@ -6,4 +6,5 @@ Does it automate something and make my life 3% easier? Yes.
 
 1. Copy the portable .exe to the affected machine
 2. Run the .exe as an admin
-3. Sit back and Relax
+3. Hit start
+4. Sit back and Relax
